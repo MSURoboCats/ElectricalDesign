@@ -8,7 +8,7 @@ Welcome to the Robocats Club PCB Files Repository! This repository contains all 
 To use these files, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/robocatsclub/pcb-files.git
+git clone https://github.com/MSURoboCats/PcbDesign.git
 ```
 
 You will need KiCad 7.0 to open and edit the `.kicad_pcb` and schematic files.
