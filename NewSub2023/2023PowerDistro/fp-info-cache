@@ -1,20 +1,76 @@
-22353360416867163
+22366172409104036
 2023Footprints
-MR30PW-M
-
-
+MR30PW-F
+Connector XT30 Horizontal PCB Female, https://www.tme.eu/en/Document/5e47640ba39fa492dbd4c0f4c8ae7b93/MR30PW%20SPEC.pdf
+RC Connector XT30
 0
-3
+5
 3
 2023Footprints
-Test
-
-
+MR30PW-MB
+Connector XT30 Horizontal PCB Male, https://www.tme.eu/en/Document/5e47640ba39fa492dbd4c0f4c8ae7b93/MR30PW%20SPEC.pdf
+RC Connector XT30
 0
-1
-1
+5
+3
 2023Footprints
-XT90PW_footprint
+XT30PW-F
+Connector XT30 Horizontal PCB Female, https://www.tme.eu/en/Document/ce4077e36b79046da520ca73227e15de/XT30PW%20SPEC.pdf
+RC Connector XT30
+0
+4
+2
+2023Footprints
+XT30PW-M
+Connector XT30 Horizontal PCB Male, https://www.tme.eu/en/Document/ce4077e36b79046da520ca73227e15de/XT30PW%20SPEC.pdf
+RC Connector XT30
+0
+4
+2
+2023Footprints
+XT30U-F
+Connector XT30 Vertical Cable Female, https://www.tme.eu/en/Document/3cbfa5cfa544d79584972dd5234a409e/XT30U%20SPEC.pdf
+RC Connector XT30
+0
+2
+2
+2023Footprints
+XT30U-M
+Connector XT30 Vertical Cable Male, https://www.tme.eu/en/Document/3cbfa5cfa544d79584972dd5234a409e/XT30U%20SPEC.pdf
+RC Connector XT30
+0
+2
+2
+2023Footprints
+XT30UPB-F
+Connector XT30 Vertical PCB Female, https://www.tme.eu/en/Document/4acc913878197f8c2e30d4b8cdc47230/XT30UPB%20SPEC.pdf
+RC Connector XT30
+0
+2
+2
+2023Footprints
+XT30UPB-M
+Connector XT30 Vertical PCB Male, https://www.tme.eu/en/Document/4acc913878197f8c2e30d4b8cdc47230/XT30UPB%20SPEC.pdf
+RC Connector XT30
+0
+2
+2
+2023Footprints
+XT60-F
+AMASS female XT60, through hole, vertical, https://www.tme.eu/Document/2d152ced3b7a446066e6c419d84bb460/XT60%20SPEC.pdf
+XT60 female vertical
+0
+2
+2
+2023Footprints
+XT60-M
+AMASS female XT60, through hole, vertical, https://www.tme.eu/Document/2d152ced3b7a446066e6c419d84bb460/XT60%20SPEC.pdf
+XT60 female vertical
+0
+2
+2
+2023Footprints
+XT90PW-M
 
 
 0
