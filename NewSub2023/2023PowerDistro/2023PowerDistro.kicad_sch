@@ -2,7 +2,7 @@
 
   (uuid af024177-cc00-489b-b9d8-1a60a9e35ae8)
 
-  (paper "User" 1200 799.998)
+  (paper "USLedger")
 
   (lib_symbols
     (symbol "2023Symbols:LTC4353" (in_bom yes) (on_board yes)
