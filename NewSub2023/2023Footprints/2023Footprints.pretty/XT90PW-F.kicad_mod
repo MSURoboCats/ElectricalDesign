@@ -1,4 +1,4 @@
-(footprint "XT90PW-M"
+(footprint "XT90PW-F"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "XT90PW-M"
+	(property "Value" "XT90PW-F"
 		(at 0 -15.8 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -32,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "b5d79070-d650-4205-9206-be72405c32f6")
+		(uuid "ad618e7d-bf51-4561-afda-7fb8fd1e1eda")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -44,7 +44,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "48e56ff0-974f-4039-82ec-f007a1709e0a")
+		(uuid "2c0bcdbe-d331-42f0-a99c-a4838cb57873")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -56,7 +56,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "9ef7083e-abbd-40a2-956e-a8567f5d448b")
+		(uuid "2afdb4a4-a7df-4db0-bf0a-668917e2f959")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -76,23 +76,23 @@
 	)
 	(fp_line
 		(start -10 0)
-		(end -10 15.2)
+		(end -10 3)
 		(stroke
 			(width 0.15)
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "c6f3ccfa-0a33-4a8e-91e3-ca76f7a8344d")
+		(uuid "a0f14692-6637-4873-bf7a-d6dae59b2e95")
 	)
 	(fp_line
-		(start -10 15.2)
-		(end 10.8 15.2)
+		(start -10 3)
+		(end -7 3)
 		(stroke
 			(width 0.15)
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "b4d8d8ec-9216-40bf-ab08-8ebe1a33500c")
+		(uuid "2d2f4101-8f1a-4136-970b-0fb95c7b24d4")
 	)
 	(fp_line
 		(start -7.73 -11.9)
@@ -105,6 +105,56 @@
 		(uuid "c3b23cac-3277-4141-90c0-5a6dcae0ce42")
 	)
 	(fp_line
+		(start -7 3)
+		(end -7 15.2)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "787064a6-9089-4832-a4af-cd3b8aa5db60")
+	)
+	(fp_line
+		(start 7.795 3.024)
+		(end 7.795 15.224)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "3d9326b2-a3a0-4ac7-b8bc-b5036ba9cb9b")
+	)
+	(fp_line
+		(start 7.795 3.024)
+		(end 10.795 3.024)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "27e8768e-751b-4ba6-bd96-de8a2378ad8b")
+	)
+	(fp_line
+		(start 7.795 15.224)
+		(end -7 15.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "7ae51bae-46dd-4620-8c79-d35cbad3bc7d")
+	)
+	(fp_line
+		(start 10.795 0.024)
+		(end 10.795 3.024)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "b932dcf8-1341-4d1c-9a55-1d6a622a1a3b")
+	)
+	(fp_line
 		(start 10.8 0)
 		(end 10.8 -5.95)
 		(stroke
@@ -113,16 +163,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "d13b0097-d7e3-45f0-8d88-51886d15e8d2")
-	)
-	(fp_line
-		(start 10.8 15.2)
-		(end 10.8 0)
-		(stroke
-			(width 0.15)
-			(type default)
-		)
-		(layer "F.SilkS")
-		(uuid "75d7082c-329b-450a-93f5-49d01e8d1ada")
 	)
 	(fp_arc
 		(start -10 -5.95)
@@ -285,9 +325,9 @@
 		(roundrect_rratio 0.25)
 		(uuid "12966e7a-1d59-4001-9c14-4c8440947ac3")
 	)
-	(model "C:/Users/peter/PcbDesign/NewSub2023/2023Footprints/2023Footprints.pretty/StepFiles/XT90PW-M.step"
+	(model "C:/Users/peter/PcbDesign/NewSub2023/2023Footprints/2023Footprints.pretty/StepFiles/XT90PW-F.step"
 		(offset
-			(xyz 0.5 -0.25 0)
+			(xyz 0.5 0.25 0)
 		)
 		(scale
 			(xyz 1 1 1)
