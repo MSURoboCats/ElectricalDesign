@@ -113,9 +113,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "GerberFiles/")
 		)
 	)
 	(net 0 "")
@@ -534,7 +534,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C1"
-			(at 0 -1.68 0)
+			(at 0 1.905 0)
 			(layer "F.SilkS")
 			(uuid "322f6a23-a888-46f0-be4b-89d4bb3821f8")
 			(effects
@@ -545,7 +545,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 0 1.68 0)
+			(at 0 3.175 0)
 			(layer "F.Fab")
 			(uuid "717c7553-60d5-4506-83be-85b85bb775b9")
 			(effects
@@ -3809,6 +3809,19 @@
 		(fill none)
 		(layer "Edge.Cuts")
 		(uuid "d8c35788-91e3-4e86-84d6-29e685825f4e")
+	)
+	(gr_text "RoboCats Ideal Diode V0.1\nDesigned by: Peter Buckley"
+		(at 280.67 249.555 0)
+		(layer "F.SilkS")
+		(uuid "1528e560-aeed-4cba-80f9-014a404cecbc")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left top)
+		)
 	)
 	(segment
 		(start 337.745 253.605)
