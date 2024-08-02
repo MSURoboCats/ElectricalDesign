@@ -11,7 +11,7 @@ To use these files, clone the repository to your local machine:
 git clone https://github.com/MSURoboCats/PcbDesign.git
 ```
 
-You will need KiCad 7.0 to open and edit the `.kicad_pcb` and schematic files.
+You will need KiCad 8.0 to open and edit the `.kicad_pcb` and schematic files.
 
 ## Contribution Guidelines
 We welcome contributions from all club members and the broader community. To contribute:
