@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PowerDistro")(type "KiCad")(uri "${KIPRJMOD}/PowerDistroSymbols/PowerDistro.kicad_sym")(options "")(descr ""))
+)
