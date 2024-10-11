@@ -44,6 +44,44 @@
 		)
 	)
 	(sheet
+		(at 102.87 105.41)
+		(size 39.37 57.15)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5a05102a-8d82-49b8-9679-8a2aadf03607")
+		(property "Sheetname" "LEDBoardPinout"
+			(at 102.87 104.6984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LEDBoardPinout.kicad_sch"
+			(at 102.87 163.1446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PowerDistro"
+				(path "/605eff46-b281-4cd5-84ac-aa97178bb7be"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 213.36 105.41)
 		(size 68.58 57.15)
 		(fields_autoplaced yes)
