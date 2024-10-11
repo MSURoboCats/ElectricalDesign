@@ -2,7 +2,7 @@
 	(version 20231120)
 	(generator "eeschema")
 	(generator_version "8.0")
-	(uuid "97a2383e-9ece-4ee0-b3a6-9529e69aea36")
+	(uuid "9f605369-d9c1-4694-8ffc-0e1860a6af54")
 	(paper "A4")
 	(lib_symbols
 		(symbol "PowerDistro:JetsonAGXOrinExpansionHeader"
