@@ -929,7 +929,7 @@
 		)
 	)
 	(junction
-		(at 105.41 100.33)
+		(at 105.41 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "020cc013-2161-4248-b9ce-f84f70596d4f")
@@ -941,7 +941,7 @@
 		(uuid "03e478dd-438a-492f-b38a-4a9449bc2b46")
 	)
 	(junction
-		(at 58.42 74.93)
+		(at 58.42 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0569b018-a3b8-494f-9b6b-0d0e39c75185")
@@ -965,13 +965,13 @@
 		(uuid "08fb597d-45f1-4422-8d71-c2f35f2b1614")
 	)
 	(junction
-		(at 115.57 73.66)
+		(at 115.57 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0a547041-8ed0-46e2-82a6-20db8f41abf1")
 	)
 	(junction
-		(at 105.41 82.55)
+		(at 105.41 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0dcd4487-e919-4382-918f-c1590a4559ac")
@@ -1007,7 +1007,7 @@
 		(uuid "248738ff-42ac-48ab-b41d-2e826d2964f9")
 	)
 	(junction
-		(at 220.98 100.33)
+		(at 220.98 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "261e0cfa-fab4-4e54-978c-51811e1850c0")
@@ -1019,7 +1019,7 @@
 		(uuid "2c37a219-1e8e-48ab-8570-dc16e830411d")
 	)
 	(junction
-		(at 231.14 73.66)
+		(at 231.14 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2cc8c777-f591-4ad9-bd49-473aee9f64b5")
@@ -1037,13 +1037,13 @@
 		(uuid "37a5085f-6239-4717-a9b4-eeeb7325eeaa")
 	)
 	(junction
-		(at 48.26 68.58)
+		(at 48.26 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "482de4bc-8b4d-41b0-861b-457337a5bc41")
 	)
 	(junction
-		(at 162.56 92.71)
+		(at 162.56 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "49958662-503f-4663-a62e-a4dc1cd765e8")
@@ -1055,19 +1055,19 @@
 		(uuid "4e691506-4be3-440b-8a17-0d1038ffef1a")
 	)
 	(junction
-		(at 162.56 82.55)
+		(at 162.56 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4fed07fb-d80c-4e82-aba3-bcf13e89781e")
 	)
 	(junction
-		(at 220.98 87.63)
+		(at 220.98 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "50f298e7-6348-4840-886d-a2644ed2cdd1")
 	)
 	(junction
-		(at 48.26 105.41)
+		(at 48.26 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "590c49e3-98e6-4ce7-8d97-bd004d0102ac")
@@ -1091,19 +1091,19 @@
 		(uuid "7658987e-b486-4469-8a35-a334948ba0a1")
 	)
 	(junction
-		(at 162.56 63.5)
+		(at 162.56 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "77314800-a6a1-4577-86b0-0cb556408d4d")
 	)
 	(junction
-		(at 162.56 100.33)
+		(at 162.56 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "78096609-b635-48d4-8f43-2499d209b553")
 	)
 	(junction
-		(at 105.41 92.71)
+		(at 105.41 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "781da96c-82ab-4bf2-af5b-3b752d985926")
@@ -1121,37 +1121,37 @@
 		(uuid "7b487594-e75f-4256-87b5-aadd61c0a34b")
 	)
 	(junction
-		(at 48.26 92.71)
+		(at 48.26 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7d89d5ea-c7ae-4b61-88a0-5ecc39f37f42")
 	)
 	(junction
-		(at 220.98 92.71)
+		(at 220.98 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "882a3146-a788-48a1-8d42-8de11735ba22")
 	)
 	(junction
-		(at 105.41 87.63)
+		(at 105.41 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "91c9e211-20a4-4a41-87bc-1b93b56adc7d")
 	)
 	(junction
-		(at 162.56 105.41)
+		(at 162.56 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9c0835fc-87aa-4317-b0dd-fd45def6de8d")
 	)
 	(junction
-		(at 162.56 87.63)
+		(at 162.56 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a0707141-55aa-434c-9973-3b5adfa113f8")
 	)
 	(junction
-		(at 48.26 87.63)
+		(at 48.26 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a0b1c63a-76af-4198-9944-4937a4fe8bc3")
@@ -1175,7 +1175,7 @@
 		(uuid "b760e59c-09a2-457f-8052-aef43a24b004")
 	)
 	(junction
-		(at 48.26 82.55)
+		(at 48.26 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c42fb476-9c42-4e92-a583-536073f95f6b")
@@ -1187,7 +1187,7 @@
 		(uuid "d6fb908e-0b51-4945-8d6d-a757e7a1be73")
 	)
 	(junction
-		(at 172.72 73.66)
+		(at 172.72 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "da363f94-7fba-42b5-a35f-441384a32bb0")
@@ -1205,13 +1205,13 @@
 		(uuid "de2d77b4-e372-46ee-a434-2f319d2674b6")
 	)
 	(junction
-		(at 48.26 100.33)
+		(at 48.26 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "eca293c4-c848-4b83-a045-040875e106bd")
 	)
 	(junction
-		(at 105.41 105.41)
+		(at 105.41 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ef8c2116-dd52-4a6c-adf2-2f78b6acedb9")
@@ -1229,20 +1229,20 @@
 		(uuid "f4dead40-83db-4e2f-944e-98d102169d12")
 	)
 	(junction
-		(at 105.41 63.5)
+		(at 105.41 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f77f7b14-39d1-4447-95fb-76f836a271c0")
 	)
 	(junction
-		(at 220.98 82.55)
+		(at 220.98 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fed7da5f-9118-4a5b-93b5-c81d79e7ac7e")
 	)
 	(wire
 		(pts
-			(xy 231.14 72.39) (xy 231.14 73.66)
+			(xy 231.14 52.07) (xy 231.14 53.34)
 		)
 		(stroke
 			(width 0)
@@ -1272,7 +1272,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 92.71) (xy 48.26 100.33)
+			(xy 48.26 72.39) (xy 48.26 80.01)
 		)
 		(stroke
 			(width 0)
@@ -1312,7 +1312,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 100.33) (xy 234.95 100.33)
+			(xy 220.98 80.01) (xy 234.95 80.01)
 		)
 		(stroke
 			(width 0)
@@ -1322,7 +1322,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 82.55) (xy 119.38 82.55)
+			(xy 105.41 62.23) (xy 119.38 62.23)
 		)
 		(stroke
 			(width 0)
@@ -1332,7 +1332,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 72.39) (xy 172.72 73.66)
+			(xy 172.72 52.07) (xy 172.72 53.34)
 		)
 		(stroke
 			(width 0)
@@ -1342,7 +1342,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 73.66) (xy 105.41 73.66)
+			(xy 115.57 53.34) (xy 105.41 53.34)
 		)
 		(stroke
 			(width 0)
@@ -1352,7 +1352,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 87.63) (xy 119.38 87.63)
+			(xy 105.41 67.31) (xy 119.38 67.31)
 		)
 		(stroke
 			(width 0)
@@ -1362,7 +1362,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 95.25) (xy 119.38 95.25)
+			(xy 118.11 74.93) (xy 119.38 74.93)
 		)
 		(stroke
 			(width 0)
@@ -1382,7 +1382,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 95.25) (xy 234.95 95.25)
+			(xy 233.68 74.93) (xy 234.95 74.93)
 		)
 		(stroke
 			(width 0)
@@ -1392,7 +1392,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 85.09) (xy 176.53 85.09)
+			(xy 175.26 64.77) (xy 176.53 64.77)
 		)
 		(stroke
 			(width 0)
@@ -1432,7 +1432,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 90.17) (xy 62.23 90.17)
+			(xy 60.96 69.85) (xy 62.23 69.85)
 		)
 		(stroke
 			(width 0)
@@ -1442,7 +1442,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 100.33) (xy 220.98 105.41)
+			(xy 220.98 80.01) (xy 220.98 85.09)
 		)
 		(stroke
 			(width 0)
@@ -1462,7 +1462,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 74.93) (xy 62.23 74.93)
+			(xy 58.42 54.61) (xy 62.23 54.61)
 		)
 		(stroke
 			(width 0)
@@ -1482,7 +1482,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 92.71) (xy 119.38 92.71)
+			(xy 105.41 72.39) (xy 119.38 72.39)
 		)
 		(stroke
 			(width 0)
@@ -1492,7 +1492,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 74.93) (xy 119.38 74.93)
+			(xy 115.57 54.61) (xy 119.38 54.61)
 		)
 		(stroke
 			(width 0)
@@ -1502,7 +1502,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 63.5) (xy 48.26 63.5)
+			(xy 105.41 43.18) (xy 48.26 43.18)
 		)
 		(stroke
 			(width 0)
@@ -1512,7 +1512,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 87.63) (xy 234.95 87.63)
+			(xy 220.98 67.31) (xy 234.95 67.31)
 		)
 		(stroke
 			(width 0)
@@ -1532,7 +1532,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 63.5) (xy 220.98 73.66)
+			(xy 220.98 43.18) (xy 220.98 53.34)
 		)
 		(stroke
 			(width 0)
@@ -1542,7 +1542,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 100.33) (xy 48.26 105.41)
+			(xy 48.26 80.01) (xy 48.26 85.09)
 		)
 		(stroke
 			(width 0)
@@ -1572,7 +1572,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 100.33) (xy 162.56 105.41)
+			(xy 162.56 80.01) (xy 162.56 85.09)
 		)
 		(stroke
 			(width 0)
@@ -1582,7 +1582,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 90.17) (xy 119.38 90.17)
+			(xy 118.11 69.85) (xy 119.38 69.85)
 		)
 		(stroke
 			(width 0)
@@ -1612,7 +1612,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 85.09) (xy 119.38 85.09)
+			(xy 118.11 64.77) (xy 119.38 64.77)
 		)
 		(stroke
 			(width 0)
@@ -1632,7 +1632,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 77.47) (xy 220.98 77.47)
+			(xy 234.95 57.15) (xy 220.98 57.15)
 		)
 		(stroke
 			(width 0)
@@ -1642,7 +1642,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 85.09) (xy 62.23 85.09)
+			(xy 60.96 64.77) (xy 62.23 64.77)
 		)
 		(stroke
 			(width 0)
@@ -1652,7 +1652,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 100.33) (xy 105.41 105.41)
+			(xy 105.41 80.01) (xy 105.41 85.09)
 		)
 		(stroke
 			(width 0)
@@ -1662,7 +1662,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 73.66) (xy 220.98 73.66)
+			(xy 231.14 53.34) (xy 220.98 53.34)
 		)
 		(stroke
 			(width 0)
@@ -1692,7 +1692,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 92.71) (xy 162.56 100.33)
+			(xy 162.56 72.39) (xy 162.56 80.01)
 		)
 		(stroke
 			(width 0)
@@ -1702,7 +1702,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 74.93) (xy 234.95 74.93)
+			(xy 231.14 54.61) (xy 234.95 54.61)
 		)
 		(stroke
 			(width 0)
@@ -1722,7 +1722,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 87.63) (xy 48.26 92.71)
+			(xy 48.26 67.31) (xy 48.26 72.39)
 		)
 		(stroke
 			(width 0)
@@ -1732,7 +1732,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 82.55) (xy 48.26 87.63)
+			(xy 48.26 62.23) (xy 48.26 67.31)
 		)
 		(stroke
 			(width 0)
@@ -1752,7 +1752,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 72.39) (xy 115.57 72.39)
+			(xy 119.38 52.07) (xy 115.57 52.07)
 		)
 		(stroke
 			(width 0)
@@ -1762,7 +1762,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 63.5) (xy 162.56 73.66)
+			(xy 162.56 43.18) (xy 162.56 53.34)
 		)
 		(stroke
 			(width 0)
@@ -1782,7 +1782,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 82.55) (xy 234.95 82.55)
+			(xy 220.98 62.23) (xy 234.95 62.23)
 		)
 		(stroke
 			(width 0)
@@ -1792,7 +1792,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 87.63) (xy 105.41 92.71)
+			(xy 105.41 67.31) (xy 105.41 72.39)
 		)
 		(stroke
 			(width 0)
@@ -1822,7 +1822,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 68.58) (xy 48.26 68.58)
+			(xy 38.1 48.26) (xy 48.26 48.26)
 		)
 		(stroke
 			(width 0)
@@ -1832,7 +1832,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 80.01) (xy 119.38 80.01)
+			(xy 118.11 59.69) (xy 119.38 59.69)
 		)
 		(stroke
 			(width 0)
@@ -1842,7 +1842,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 68.58) (xy 48.26 74.93)
+			(xy 48.26 48.26) (xy 48.26 54.61)
 		)
 		(stroke
 			(width 0)
@@ -1852,7 +1852,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 92.71) (xy 234.95 92.71)
+			(xy 220.98 72.39) (xy 234.95 72.39)
 		)
 		(stroke
 			(width 0)
@@ -1922,7 +1922,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 72.39) (xy 231.14 72.39)
+			(xy 234.95 52.07) (xy 231.14 52.07)
 		)
 		(stroke
 			(width 0)
@@ -1932,7 +1932,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 92.71) (xy 62.23 92.71)
+			(xy 48.26 72.39) (xy 62.23 72.39)
 		)
 		(stroke
 			(width 0)
@@ -1952,7 +1952,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 105.41) (xy 162.56 105.41)
+			(xy 105.41 85.09) (xy 162.56 85.09)
 		)
 		(stroke
 			(width 0)
@@ -1962,7 +1962,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 72.39) (xy 58.42 74.93)
+			(xy 58.42 52.07) (xy 58.42 54.61)
 		)
 		(stroke
 			(width 0)
@@ -2012,7 +2012,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 73.66) (xy 231.14 74.93)
+			(xy 231.14 53.34) (xy 231.14 54.61)
 		)
 		(stroke
 			(width 0)
@@ -2022,7 +2022,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 100.33) (xy 62.23 100.33)
+			(xy 48.26 80.01) (xy 62.23 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2042,7 +2042,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 77.47) (xy 220.98 82.55)
+			(xy 220.98 57.15) (xy 220.98 62.23)
 		)
 		(stroke
 			(width 0)
@@ -2062,7 +2062,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 95.25) (xy 176.53 95.25)
+			(xy 175.26 74.93) (xy 176.53 74.93)
 		)
 		(stroke
 			(width 0)
@@ -2072,7 +2072,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 63.5) (xy 105.41 63.5)
+			(xy 162.56 43.18) (xy 105.41 43.18)
 		)
 		(stroke
 			(width 0)
@@ -2092,7 +2092,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 87.63) (xy 220.98 92.71)
+			(xy 220.98 67.31) (xy 220.98 72.39)
 		)
 		(stroke
 			(width 0)
@@ -2102,7 +2102,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 74.93) (xy 48.26 74.93)
+			(xy 58.42 54.61) (xy 48.26 54.61)
 		)
 		(stroke
 			(width 0)
@@ -2122,7 +2122,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 82.55) (xy 105.41 87.63)
+			(xy 105.41 62.23) (xy 105.41 67.31)
 		)
 		(stroke
 			(width 0)
@@ -2142,7 +2142,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 80.01) (xy 234.95 80.01)
+			(xy 233.68 59.69) (xy 234.95 59.69)
 		)
 		(stroke
 			(width 0)
@@ -2182,7 +2182,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 105.41) (xy 48.26 105.41)
+			(xy 25.4 85.09) (xy 48.26 85.09)
 		)
 		(stroke
 			(width 0)
@@ -2242,7 +2242,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 90.17) (xy 176.53 90.17)
+			(xy 175.26 69.85) (xy 176.53 69.85)
 		)
 		(stroke
 			(width 0)
@@ -2252,7 +2252,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 77.47) (xy 162.56 77.47)
+			(xy 176.53 57.15) (xy 162.56 57.15)
 		)
 		(stroke
 			(width 0)
@@ -2302,7 +2302,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 100.33) (xy 176.53 100.33)
+			(xy 162.56 80.01) (xy 176.53 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2322,7 +2322,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 77.47) (xy 162.56 82.55)
+			(xy 162.56 57.15) (xy 162.56 62.23)
 		)
 		(stroke
 			(width 0)
@@ -2332,7 +2332,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 85.09) (xy 234.95 85.09)
+			(xy 233.68 64.77) (xy 234.95 64.77)
 		)
 		(stroke
 			(width 0)
@@ -2342,7 +2342,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 95.25) (xy 62.23 95.25)
+			(xy 60.96 74.93) (xy 62.23 74.93)
 		)
 		(stroke
 			(width 0)
@@ -2352,7 +2352,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 92.71) (xy 176.53 92.71)
+			(xy 162.56 72.39) (xy 176.53 72.39)
 		)
 		(stroke
 			(width 0)
@@ -2382,7 +2382,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 92.71) (xy 220.98 100.33)
+			(xy 220.98 72.39) (xy 220.98 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2402,7 +2402,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 77.47) (xy 105.41 82.55)
+			(xy 105.41 57.15) (xy 105.41 62.23)
 		)
 		(stroke
 			(width 0)
@@ -2412,7 +2412,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 73.66) (xy 172.72 74.93)
+			(xy 172.72 53.34) (xy 172.72 54.61)
 		)
 		(stroke
 			(width 0)
@@ -2432,7 +2432,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 105.41) (xy 26.67 109.22)
+			(xy 25.4 85.09) (xy 25.4 90.17)
 		)
 		(stroke
 			(width 0)
@@ -2442,7 +2442,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 73.66) (xy 115.57 74.93)
+			(xy 115.57 53.34) (xy 115.57 54.61)
 		)
 		(stroke
 			(width 0)
@@ -2452,7 +2452,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 82.55) (xy 220.98 87.63)
+			(xy 220.98 62.23) (xy 220.98 67.31)
 		)
 		(stroke
 			(width 0)
@@ -2472,7 +2472,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 100.33) (xy 119.38 100.33)
+			(xy 105.41 80.01) (xy 119.38 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2512,7 +2512,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 68.58) (xy 48.26 63.5)
+			(xy 48.26 48.26) (xy 48.26 43.18)
 		)
 		(stroke
 			(width 0)
@@ -2532,7 +2532,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 72.39) (xy 172.72 72.39)
+			(xy 176.53 52.07) (xy 172.72 52.07)
 		)
 		(stroke
 			(width 0)
@@ -2542,7 +2542,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 90.17) (xy 234.95 90.17)
+			(xy 233.68 69.85) (xy 234.95 69.85)
 		)
 		(stroke
 			(width 0)
@@ -2602,7 +2602,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 82.55) (xy 162.56 87.63)
+			(xy 162.56 62.23) (xy 162.56 67.31)
 		)
 		(stroke
 			(width 0)
@@ -2622,7 +2622,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 73.66) (xy 162.56 73.66)
+			(xy 172.72 53.34) (xy 162.56 53.34)
 		)
 		(stroke
 			(width 0)
@@ -2662,7 +2662,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 105.41) (xy 220.98 105.41)
+			(xy 162.56 85.09) (xy 220.98 85.09)
 		)
 		(stroke
 			(width 0)
@@ -2672,7 +2672,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 92.71) (xy 105.41 100.33)
+			(xy 105.41 72.39) (xy 105.41 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2692,7 +2692,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 80.01) (xy 62.23 80.01)
+			(xy 60.96 59.69) (xy 62.23 59.69)
 		)
 		(stroke
 			(width 0)
@@ -2702,7 +2702,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 72.39) (xy 58.42 72.39)
+			(xy 62.23 52.07) (xy 58.42 52.07)
 		)
 		(stroke
 			(width 0)
@@ -2722,7 +2722,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 77.47) (xy 105.41 77.47)
+			(xy 119.38 57.15) (xy 105.41 57.15)
 		)
 		(stroke
 			(width 0)
@@ -2762,7 +2762,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 77.47) (xy 48.26 82.55)
+			(xy 48.26 57.15) (xy 48.26 62.23)
 		)
 		(stroke
 			(width 0)
@@ -2792,7 +2792,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 105.41) (xy 105.41 105.41)
+			(xy 48.26 85.09) (xy 105.41 85.09)
 		)
 		(stroke
 			(width 0)
@@ -2802,7 +2802,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 82.55) (xy 176.53 82.55)
+			(xy 162.56 62.23) (xy 176.53 62.23)
 		)
 		(stroke
 			(width 0)
@@ -2822,7 +2822,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 72.39) (xy 115.57 73.66)
+			(xy 115.57 52.07) (xy 115.57 53.34)
 		)
 		(stroke
 			(width 0)
@@ -2872,7 +2872,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 63.5) (xy 105.41 73.66)
+			(xy 105.41 43.18) (xy 105.41 53.34)
 		)
 		(stroke
 			(width 0)
@@ -2902,7 +2902,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 87.63) (xy 62.23 87.63)
+			(xy 48.26 67.31) (xy 62.23 67.31)
 		)
 		(stroke
 			(width 0)
@@ -2922,7 +2922,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 80.01) (xy 176.53 80.01)
+			(xy 175.26 59.69) (xy 176.53 59.69)
 		)
 		(stroke
 			(width 0)
@@ -2932,7 +2932,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 87.63) (xy 162.56 92.71)
+			(xy 162.56 67.31) (xy 162.56 72.39)
 		)
 		(stroke
 			(width 0)
@@ -2942,7 +2942,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 77.47) (xy 48.26 77.47)
+			(xy 62.23 57.15) (xy 48.26 57.15)
 		)
 		(stroke
 			(width 0)
@@ -2962,7 +2962,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 57.15) (xy 38.1 68.58)
+			(xy 38.1 36.83) (xy 38.1 48.26)
 		)
 		(stroke
 			(width 0)
@@ -2982,7 +2982,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 87.63) (xy 176.53 87.63)
+			(xy 162.56 67.31) (xy 176.53 67.31)
 		)
 		(stroke
 			(width 0)
@@ -3002,7 +3002,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 74.93) (xy 176.53 74.93)
+			(xy 172.72 54.61) (xy 176.53 54.61)
 		)
 		(stroke
 			(width 0)
@@ -3022,7 +3022,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 63.5) (xy 162.56 63.5)
+			(xy 220.98 43.18) (xy 162.56 43.18)
 		)
 		(stroke
 			(width 0)
@@ -3042,7 +3042,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 82.55) (xy 62.23 82.55)
+			(xy 48.26 62.23) (xy 62.23 62.23)
 		)
 		(stroke
 			(width 0)
@@ -3052,7 +3052,7 @@
 	)
 	(global_label "2MOT_C"
 		(shape input)
-		(at 118.11 90.17 180)
+		(at 118.11 69.85 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3062,7 +3062,7 @@
 		)
 		(uuid "0010a697-e970-4707-816a-9e46f477ca60")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 107.9282 90.17 0)
+			(at 107.9282 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3096,7 +3096,7 @@
 	)
 	(global_label "4MOT_A"
 		(shape input)
-		(at 233.68 80.01 180)
+		(at 233.68 59.69 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3106,7 +3106,7 @@
 		)
 		(uuid "180ed327-e290-48a6-980f-4ea382ce49e9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 223.6796 80.01 0)
+			(at 223.6796 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3162,7 +3162,7 @@
 	)
 	(global_label "COM3"
 		(shape input)
-		(at 175.26 95.25 180)
+		(at 175.26 74.93 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3172,7 +3172,7 @@
 		)
 		(uuid "342fd6fa-1d9e-478b-9cd6-e7ba27db3011")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 167.0134 95.25 0)
+			(at 167.0134 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3184,7 +3184,7 @@
 	)
 	(global_label "3MOT_B"
 		(shape input)
-		(at 175.26 85.09 180)
+		(at 175.26 64.77 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3194,7 +3194,7 @@
 		)
 		(uuid "3c106ce0-a3c7-4d08-820e-425f1e46a241")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 165.0782 85.09 0)
+			(at 165.0782 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3228,7 +3228,7 @@
 	)
 	(global_label "COM1"
 		(shape input)
-		(at 60.96 95.25 180)
+		(at 60.96 74.93 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3238,7 +3238,7 @@
 		)
 		(uuid "3fc02270-b683-4d5e-9924-6db988e342ff")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 52.7134 95.25 0)
+			(at 52.7134 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3250,7 +3250,7 @@
 	)
 	(global_label "4MOT_C"
 		(shape input)
-		(at 233.68 90.17 180)
+		(at 233.68 69.85 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3260,7 +3260,7 @@
 		)
 		(uuid "4e626f0e-8aee-4759-b3c5-f9073284f487")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 223.4982 90.17 0)
+			(at 223.4982 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3360,7 +3360,7 @@
 	)
 	(global_label "4MOT_B"
 		(shape input)
-		(at 233.68 85.09 180)
+		(at 233.68 64.77 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3370,7 +3370,7 @@
 		)
 		(uuid "7d4c762a-615e-4f0f-81ec-2c5963b8b9d5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 223.4982 85.09 0)
+			(at 223.4982 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3382,7 +3382,7 @@
 	)
 	(global_label "3MOT_A"
 		(shape input)
-		(at 175.26 80.01 180)
+		(at 175.26 59.69 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3392,7 +3392,7 @@
 		)
 		(uuid "811008b1-4372-4cb0-a8c4-f6ad9bea1965")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 165.2596 80.01 0)
+			(at 165.2596 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3404,7 +3404,7 @@
 	)
 	(global_label "1MOT_C"
 		(shape input)
-		(at 60.96 90.17 180)
+		(at 60.96 69.85 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3414,7 +3414,7 @@
 		)
 		(uuid "842f5ec7-4025-4de0-b3ac-62307d9bfee8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 50.7782 90.17 0)
+			(at 50.7782 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3426,7 +3426,7 @@
 	)
 	(global_label "COM4"
 		(shape input)
-		(at 233.68 95.25 180)
+		(at 233.68 74.93 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3436,7 +3436,7 @@
 		)
 		(uuid "890f9ec4-04d8-4297-88fb-78e8edf70059")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 225.4334 95.25 0)
+			(at 225.4334 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3492,7 +3492,7 @@
 	)
 	(global_label "2MOT_A"
 		(shape input)
-		(at 118.11 80.01 180)
+		(at 118.11 59.69 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3502,7 +3502,7 @@
 		)
 		(uuid "97dccbee-e8c5-450c-9c49-9b279d664285")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 108.1096 80.01 0)
+			(at 108.1096 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3580,7 +3580,7 @@
 	)
 	(global_label "1MOT_B"
 		(shape input)
-		(at 60.96 85.09 180)
+		(at 60.96 64.77 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3590,7 +3590,7 @@
 		)
 		(uuid "baed7c0e-fd7c-4757-a264-8b03ef963a71")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 50.7782 85.09 0)
+			(at 50.7782 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3602,7 +3602,7 @@
 	)
 	(global_label "COM2"
 		(shape input)
-		(at 118.11 95.25 180)
+		(at 118.11 74.93 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3612,7 +3612,7 @@
 		)
 		(uuid "bf73897f-a5bb-44de-a567-08719c7e67cb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 109.8634 95.25 0)
+			(at 109.8634 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3646,7 +3646,7 @@
 	)
 	(global_label "3MOT_C"
 		(shape input)
-		(at 175.26 90.17 180)
+		(at 175.26 69.85 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3656,7 +3656,7 @@
 		)
 		(uuid "c8ffc19a-6299-4994-ad8d-2f7ef3ca4359")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 165.0782 90.17 0)
+			(at 165.0782 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3690,7 +3690,7 @@
 	)
 	(global_label "1MOT_A"
 		(shape input)
-		(at 60.96 80.01 180)
+		(at 60.96 59.69 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3700,7 +3700,7 @@
 		)
 		(uuid "de5fc549-53b6-4b48-9c9b-c438cfafd01c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 50.9596 80.01 0)
+			(at 50.9596 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3734,7 +3734,7 @@
 	)
 	(global_label "2MOT_B"
 		(shape input)
-		(at 118.11 85.09 180)
+		(at 118.11 64.77 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3744,7 +3744,7 @@
 		)
 		(uuid "f3c11558-bacd-4bf3-a64b-586b4f7cf313")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 107.9282 85.09 0)
+			(at 107.9282 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3756,7 +3756,7 @@
 	)
 	(symbol
 		(lib_id "power:+1V0")
-		(at 38.1 57.15 0)
+		(at 38.1 36.83 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3765,7 +3765,7 @@
 		(fields_autoplaced yes)
 		(uuid "0a7b4815-bb0e-462c-a982-10b7ea8cdaff")
 		(property "Reference" "#PWR05"
-			(at 38.1 60.96 0)
+			(at 38.1 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3774,7 +3774,7 @@
 			)
 		)
 		(property "Value" "PVDD"
-			(at 38.1 52.07 0)
+			(at 38.1 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3782,7 +3782,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 38.1 57.15 0)
+			(at 38.1 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3791,7 +3791,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 38.1 57.15 0)
+			(at 38.1 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3800,7 +3800,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+1V0\""
-			(at 38.1 57.15 0)
+			(at 38.1 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4175,7 +4175,7 @@
 	)
 	(symbol
 		(lib_id "PowerDistro:10159560-A00221RLF")
-		(at 124.46 85.09 0)
+		(at 124.46 64.77 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4184,7 +4184,7 @@
 		(fields_autoplaced yes)
 		(uuid "8e11d885-7740-4d7c-a37d-0caed9462196")
 		(property "Reference" "J2"
-			(at 138.43 85.0899 0)
+			(at 138.43 64.7699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4193,7 +4193,7 @@
 			)
 		)
 		(property "Value" "10159560-A00221RLF"
-			(at 138.43 87.6299 0)
+			(at 138.43 67.3099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4202,7 +4202,7 @@
 			)
 		)
 		(property "Footprint" "10159560-A00221RLF:AMPHENOL_10159560-A00221RLF"
-			(at 124.46 85.09 0)
+			(at 124.46 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4212,7 +4212,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 124.46 85.09 0)
+			(at 124.46 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4221,7 +4221,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 124.46 85.09 0)
+			(at 124.46 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4230,7 +4230,7 @@
 			)
 		)
 		(property "MF" "Amphenol"
-			(at 124.46 85.09 0)
+			(at 124.46 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4240,7 +4240,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "5.70mm"
-			(at 124.46 85.09 0)
+			(at 124.46 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4250,7 +4250,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 124.46 85.09 0)
+			(at 124.46 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4260,7 +4260,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 124.46 85.09 0)
+			(at 124.46 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4270,7 +4270,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/10159560-A00221RLF/Amphenol/view-part/?ref=eda"
-			(at 124.46 85.09 0)
+			(at 124.46 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4280,7 +4280,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 124.46 85.09 0)
+			(at 124.46 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4290,7 +4290,7 @@
 			)
 		)
 		(property "PARTREV" "C"
-			(at 124.46 85.09 0)
+			(at 124.46 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4300,7 +4300,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/10159560-A00221RLF/Amphenol/view-part/?ref=snap"
-			(at 124.46 85.09 0)
+			(at 124.46 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4310,7 +4310,7 @@
 			)
 		)
 		(property "MP" "10159560-A00221RLF"
-			(at 124.46 85.09 0)
+			(at 124.46 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4320,7 +4320,7 @@
 			)
 		)
 		(property "Description_1" "\nConn Board to Board HDR 10Power POS 2mm Solder ST SMD PowerStak® Automotive T/R\n"
-			(at 124.46 85.09 0)
+			(at 124.46 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4330,7 +4330,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 124.46 85.09 0)
+			(at 124.46 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4340,7 +4340,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Amphenol ICC"
-			(at 124.46 85.09 0)
+			(at 124.46 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4396,7 +4396,7 @@
 	)
 	(symbol
 		(lib_id "PowerDistro:10159560-A00221RLF")
-		(at 181.61 85.09 0)
+		(at 181.61 64.77 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4405,7 +4405,7 @@
 		(fields_autoplaced yes)
 		(uuid "95976198-286f-459a-841e-e3bc78316607")
 		(property "Reference" "J3"
-			(at 195.58 85.0899 0)
+			(at 195.58 64.7699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4414,7 +4414,7 @@
 			)
 		)
 		(property "Value" "10159560-A00221RLF"
-			(at 195.58 87.6299 0)
+			(at 195.58 67.3099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4423,7 +4423,7 @@
 			)
 		)
 		(property "Footprint" "10159560-A00221RLF:AMPHENOL_10159560-A00221RLF"
-			(at 181.61 85.09 0)
+			(at 181.61 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4433,7 +4433,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 181.61 85.09 0)
+			(at 181.61 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4442,7 +4442,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 181.61 85.09 0)
+			(at 181.61 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4451,7 +4451,7 @@
 			)
 		)
 		(property "MF" "Amphenol"
-			(at 181.61 85.09 0)
+			(at 181.61 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4461,7 +4461,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "5.70mm"
-			(at 181.61 85.09 0)
+			(at 181.61 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4471,7 +4471,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 181.61 85.09 0)
+			(at 181.61 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4481,7 +4481,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 181.61 85.09 0)
+			(at 181.61 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4491,7 +4491,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/10159560-A00221RLF/Amphenol/view-part/?ref=eda"
-			(at 181.61 85.09 0)
+			(at 181.61 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4501,7 +4501,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 181.61 85.09 0)
+			(at 181.61 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4511,7 +4511,7 @@
 			)
 		)
 		(property "PARTREV" "C"
-			(at 181.61 85.09 0)
+			(at 181.61 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4521,7 +4521,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/10159560-A00221RLF/Amphenol/view-part/?ref=snap"
-			(at 181.61 85.09 0)
+			(at 181.61 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4531,7 +4531,7 @@
 			)
 		)
 		(property "MP" "10159560-A00221RLF"
-			(at 181.61 85.09 0)
+			(at 181.61 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4541,7 +4541,7 @@
 			)
 		)
 		(property "Description_1" "\nConn Board to Board HDR 10Power POS 2mm Solder ST SMD PowerStak® Automotive T/R\n"
-			(at 181.61 85.09 0)
+			(at 181.61 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4551,7 +4551,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 181.61 85.09 0)
+			(at 181.61 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4561,7 +4561,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Amphenol ICC"
-			(at 181.61 85.09 0)
+			(at 181.61 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4617,7 +4617,7 @@
 	)
 	(symbol
 		(lib_id "PowerDistro:10159560-A00221RLF")
-		(at 240.03 85.09 0)
+		(at 240.03 64.77 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4626,7 +4626,7 @@
 		(fields_autoplaced yes)
 		(uuid "ac86c681-726e-4e7c-8abe-739435551a40")
 		(property "Reference" "J4"
-			(at 254 85.0899 0)
+			(at 254 64.7699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4635,7 +4635,7 @@
 			)
 		)
 		(property "Value" "10159560-A00221RLF"
-			(at 254 87.6299 0)
+			(at 254 67.3099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4644,7 +4644,7 @@
 			)
 		)
 		(property "Footprint" "10159560-A00221RLF:AMPHENOL_10159560-A00221RLF"
-			(at 240.03 85.09 0)
+			(at 240.03 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4654,7 +4654,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 240.03 85.09 0)
+			(at 240.03 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4663,7 +4663,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 240.03 85.09 0)
+			(at 240.03 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4672,7 +4672,7 @@
 			)
 		)
 		(property "MF" "Amphenol"
-			(at 240.03 85.09 0)
+			(at 240.03 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4682,7 +4682,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "5.70mm"
-			(at 240.03 85.09 0)
+			(at 240.03 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4692,7 +4692,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 240.03 85.09 0)
+			(at 240.03 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4702,7 +4702,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 240.03 85.09 0)
+			(at 240.03 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4712,7 +4712,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/10159560-A00221RLF/Amphenol/view-part/?ref=eda"
-			(at 240.03 85.09 0)
+			(at 240.03 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4722,7 +4722,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 240.03 85.09 0)
+			(at 240.03 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4732,7 +4732,7 @@
 			)
 		)
 		(property "PARTREV" "C"
-			(at 240.03 85.09 0)
+			(at 240.03 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4742,7 +4742,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/10159560-A00221RLF/Amphenol/view-part/?ref=snap"
-			(at 240.03 85.09 0)
+			(at 240.03 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4752,7 +4752,7 @@
 			)
 		)
 		(property "MP" "10159560-A00221RLF"
-			(at 240.03 85.09 0)
+			(at 240.03 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4762,7 +4762,7 @@
 			)
 		)
 		(property "Description_1" "\nConn Board to Board HDR 10Power POS 2mm Solder ST SMD PowerStak® Automotive T/R\n"
-			(at 240.03 85.09 0)
+			(at 240.03 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4772,7 +4772,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 240.03 85.09 0)
+			(at 240.03 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4782,7 +4782,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Amphenol ICC"
-			(at 240.03 85.09 0)
+			(at 240.03 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5059,7 +5059,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 26.67 109.22 0)
+		(at 25.4 90.17 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5068,7 +5068,7 @@
 		(fields_autoplaced yes)
 		(uuid "cd66780e-0176-4de6-a9f6-85104b509594")
 		(property "Reference" "#PWR03"
-			(at 26.67 115.57 0)
+			(at 25.4 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5077,7 +5077,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 26.67 114.3 0)
+			(at 25.4 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5085,7 +5085,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 26.67 109.22 0)
+			(at 25.4 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5094,7 +5094,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 26.67 109.22 0)
+			(at 25.4 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5103,7 +5103,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 26.67 109.22 0)
+			(at 25.4 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5567,7 +5567,7 @@
 	)
 	(symbol
 		(lib_id "PowerDistro:10159560-A00221RLF")
-		(at 67.31 85.09 0)
+		(at 67.31 64.77 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5576,7 +5576,7 @@
 		(fields_autoplaced yes)
 		(uuid "ecc427a4-f49b-4042-b8cf-b5473f5ec68c")
 		(property "Reference" "J1"
-			(at 81.28 85.0899 0)
+			(at 81.28 64.7699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5585,7 +5585,7 @@
 			)
 		)
 		(property "Value" "10159560-A00221RLF"
-			(at 81.28 87.6299 0)
+			(at 81.28 67.3099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5594,7 +5594,7 @@
 			)
 		)
 		(property "Footprint" "10159560-A00221RLF:AMPHENOL_10159560-A00221RLF"
-			(at 67.31 85.09 0)
+			(at 67.31 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5604,7 +5604,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 67.31 85.09 0)
+			(at 67.31 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5613,7 +5613,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 67.31 85.09 0)
+			(at 67.31 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5622,7 +5622,7 @@
 			)
 		)
 		(property "MF" "Amphenol"
-			(at 67.31 85.09 0)
+			(at 67.31 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5632,7 +5632,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "5.70mm"
-			(at 67.31 85.09 0)
+			(at 67.31 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5642,7 +5642,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 67.31 85.09 0)
+			(at 67.31 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5652,7 +5652,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 67.31 85.09 0)
+			(at 67.31 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5662,7 +5662,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/10159560-A00221RLF/Amphenol/view-part/?ref=eda"
-			(at 67.31 85.09 0)
+			(at 67.31 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5672,7 +5672,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 67.31 85.09 0)
+			(at 67.31 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5682,7 +5682,7 @@
 			)
 		)
 		(property "PARTREV" "C"
-			(at 67.31 85.09 0)
+			(at 67.31 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5692,7 +5692,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/10159560-A00221RLF/Amphenol/view-part/?ref=snap"
-			(at 67.31 85.09 0)
+			(at 67.31 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5702,7 +5702,7 @@
 			)
 		)
 		(property "MP" "10159560-A00221RLF"
-			(at 67.31 85.09 0)
+			(at 67.31 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5712,7 +5712,7 @@
 			)
 		)
 		(property "Description_1" "\nConn Board to Board HDR 10Power POS 2mm Solder ST SMD PowerStak® Automotive T/R\n"
-			(at 67.31 85.09 0)
+			(at 67.31 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5722,7 +5722,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 67.31 85.09 0)
+			(at 67.31 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5732,7 +5732,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Amphenol ICC"
-			(at 67.31 85.09 0)
+			(at 67.31 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
