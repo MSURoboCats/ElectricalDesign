@@ -5476,7 +5476,7 @@
 		(dnp no)
 		(uuid "886094af-2f59-4324-a95e-a0063422e6b4")
 		(property "Reference" "JP4"
-			(at 139.7 161.2899 0)
+			(at 131.572 148.844 0)
 			(effects
 				(font
 					(size 1.27 1.27)
