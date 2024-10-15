@@ -44,8 +44,8 @@
 		)
 	)
 	(sheet
-		(at 102.87 105.41)
-		(size 39.37 57.15)
+		(at 81.28 105.41)
+		(size 60.96 57.15)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -56,7 +56,7 @@
 		)
 		(uuid "5a05102a-8d82-49b8-9679-8a2aadf03607")
 		(property "Sheetname" "LEDBoardPinout"
-			(at 102.87 104.6984 0)
+			(at 81.28 104.6984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -65,7 +65,7 @@
 			)
 		)
 		(property "Sheetfile" "LEDBoardPinout.kicad_sch"
-			(at 102.87 163.1446 0)
+			(at 81.28 163.1446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
