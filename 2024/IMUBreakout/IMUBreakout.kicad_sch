@@ -2344,7 +2344,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 125.73 76.5048 0)
 			(effects
 				(font
@@ -2872,7 +2872,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 105.664 66.294 90)
 			(effects
 				(font
@@ -3140,7 +3140,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SM06B-GHS-TB_LF__SN_:JST_SM06B-GHS-TB_LF__SN_"
+		(property "Footprint" "IMUBreakoutFootprint:JST_SM06B-GHS-TB_LF__SN_"
 			(at 144.78 120.65 0)
 			(effects
 				(font
@@ -3347,7 +3347,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LGA-28_CEV"
+		(property "Footprint" "IMUBreakoutFootprint:LGA-28_CEV"
 			(at 130.81 57.15 0)
 			(effects
 				(font
@@ -3560,7 +3560,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 118.364 63.754 90)
 			(effects
 				(font
@@ -3627,7 +3627,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 94.234 68.834 90)
 			(effects
 				(font
@@ -3761,7 +3761,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 91.694 81.534 90)
 			(effects
 				(font
@@ -3831,7 +3831,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
 			(at 92.71 87.63 0)
 			(effects
 				(font
