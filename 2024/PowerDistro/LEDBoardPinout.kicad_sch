@@ -4191,7 +4191,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCA9685:TSSOP28"
+		(property "Footprint" "PowerDistroFootprints:TSSOP28"
 			(at 191.77 90.17 0)
 			(effects
 				(font
@@ -5493,7 +5493,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SM06B-GHS-TB_LF__SN_:JST_SM06B-GHS-TB_LF__SN_"
+		(property "Footprint" "PowerDistroFootprints:JST_SM06B-GHS-TB_LF__SN_"
 			(at 133.35 161.29 0)
 			(effects
 				(font
