@@ -180,7 +180,8 @@
       "track_widths": [
         0.0,
         0.2,
-        0.254
+        0.254,
+        8.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -693,6 +694,10 @@
     [
       "5a05102a-8d82-49b8-9679-8a2aadf03607",
       "LEDBoardPinout"
+    ],
+    [
+      "4bdb1d82-0fdb-4af5-950a-28819a875ecc",
+      "Outputs"
     ]
   ],
   "text_variables": {}
