@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TorpedoFootprints")(type "KiCad")(uri "C:/Users/peter/GitHub/ElectricalDesign/2024/Torpedo/TorpedoFootprints")(options "")(descr ""))
+)
