@@ -1029,7 +1029,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 101.6 127 0)
 			(effects
 				(font
@@ -1093,7 +1093,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 101.6 81.28 0)
 			(effects
 				(font
@@ -1157,7 +1157,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 81.28 50.8 0)
 			(effects
 				(font
@@ -1221,7 +1221,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 101.6 119.38 0)
 			(effects
 				(font
@@ -1285,7 +1285,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 81.28 165.1 0)
 			(effects
 				(font
@@ -1422,7 +1422,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 81.28 127 0)
 			(effects
 				(font
@@ -1486,7 +1486,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 101.6 149.86 0)
 			(effects
 				(font
@@ -1550,7 +1550,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 101.6 88.9 0)
 			(effects
 				(font
@@ -1614,7 +1614,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 101.6 50.8 0)
 			(effects
 				(font
@@ -1678,7 +1678,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 101.6 66.04 0)
 			(effects
 				(font
@@ -1742,7 +1742,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 81.28 134.62 0)
 			(effects
 				(font
@@ -1806,7 +1806,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 101.6 142.24 0)
 			(effects
 				(font
@@ -1870,7 +1870,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 101.6 111.76 0)
 			(effects
 				(font
@@ -1934,7 +1934,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 101.6 165.1 0)
 			(effects
 				(font
@@ -2144,7 +2144,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 81.28 66.04 0)
 			(effects
 				(font
@@ -2208,7 +2208,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 101.6 73.66 0)
 			(effects
 				(font
@@ -2418,7 +2418,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 101.6 96.52 0)
 			(effects
 				(font
@@ -2482,7 +2482,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 81.28 81.28 0)
 			(effects
 				(font
@@ -2546,7 +2546,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 81.28 157.48 0)
 			(effects
 				(font
@@ -2610,7 +2610,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 101.6 104.14 0)
 			(effects
 				(font
@@ -2747,7 +2747,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 81.28 149.86 0)
 			(effects
 				(font
@@ -2811,7 +2811,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 81.28 104.14 0)
 			(effects
 				(font
@@ -2875,7 +2875,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 81.28 119.38 0)
 			(effects
 				(font
@@ -2939,7 +2939,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 81.28 73.66 0)
 			(effects
 				(font
@@ -3003,7 +3003,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 101.6 134.62 0)
 			(effects
 				(font
@@ -3140,7 +3140,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 81.28 58.42 0)
 			(effects
 				(font
@@ -3204,7 +3204,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 81.28 142.24 0)
 			(effects
 				(font
@@ -3268,7 +3268,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 81.28 88.9 0)
 			(effects
 				(font
@@ -3332,7 +3332,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 81.28 111.76 0)
 			(effects
 				(font
@@ -3396,7 +3396,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 101.6 58.42 0)
 			(effects
 				(font
@@ -3533,7 +3533,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 101.6 157.48 0)
 			(effects
 				(font
@@ -3597,7 +3597,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_ISO7380"
 			(at 81.28 96.52 0)
 			(effects
 				(font
