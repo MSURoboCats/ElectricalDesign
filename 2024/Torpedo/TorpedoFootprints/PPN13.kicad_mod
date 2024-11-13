@@ -133,4 +133,15 @@
 		(remove_unused_layers no)
 		(uuid "e656b4ea-d9b6-4904-9144-57861b0d9e86")
 	)
+	(model "C:/Users/peter/GitHub/ElectricalDesign/2024/Torpedo/TorpedoFootprints/PPN13.STEP"
+		(offset
+			(xyz 0 0 -2.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 0 0)
+		)
+	)
 )
