@@ -224,15 +224,15 @@
 		(remove_unused_layers no)
 		(uuid "b4e46b08-49f4-41a5-b419-beebbf1c7c8f")
 	)
-	(model "C:/Users/peter/PcbDesign/NewSub2023/2023Footprints/2023Footprints.pretty/StepFiles/MR30PW-M.step"
+	(model "${KIPRJMOD}/PowerDistroFootprints/Amass_MR30PB-FB.step"
 		(offset
-			(xyz 3.5 13 2.5)
+			(xyz 3.5 0 0)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 180)
+			(xyz 0 0 0)
 		)
 	)
 )
