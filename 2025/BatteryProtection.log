@@ -1,6 +1,6 @@
 LTspice 24.0.12 for Windows
 Circuit: * C:\Users\nate4\GitHub\ElectricalDesign\2025\BatteryProtection.asc
-Start Time: Mon Mar 24 18:51:30 2025
+Start Time: Mon Mar 24 21:04:27 2025
 solver = Normal
 Maximum thread count: 8
 tnom = 27
@@ -26,63 +26,5 @@ Gmin = 2.70769e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
-Starting Gmin stepping
-Gmin = 10
-Gmin = 1.07374
-Gmin = 0.115292
-Gmin = 0.0123794
-vernier = 0.5
-Gmin = 0.00207692
-vernier = 0.666667
-Gmin = 0.00053324
-vernier = 0.888888
-vernier = 1
-Gmin = 7.02013e-05
-Gmin = 7.53781e-06
-Gmin = 8.09366e-07
-Gmin = 8.6905e-08
-Gmin = 9.33136e-09
-Gmin = 1.00195e-09
-vernier = 0.5
-vernier = 0.666667
-Gmin = 3.26797e-10
-vernier = 0.888888
-Gmin = 5.29164e-11
-vernier = 1
-Gmin = 5.68186e-12
-Gmin = 6.10085e-13
-Gmin = 0
-Gmin stepping succeeded in finding the operating point.
-
-Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
-Starting Gmin stepping
-Gmin = 10
-Gmin = 1.07374
-Gmin = 0.115292
-Gmin = 0.0123794
-vernier = 0.5
-Gmin = 0.00230769
-vernier = 0.666667
-Gmin = 0.000571329
-vernier = 0.888888
-vernier = 1
-Gmin = 7.02013e-05
-Gmin = 7.53781e-06
-Gmin = 8.09366e-07
-Gmin = 8.6905e-08
-Gmin = 9.33136e-09
-vernier = 0.5
-Gmin = 2.65126e-09
-vernier = 0.666667
-vernier = 0.888888
-Gmin = 4.71163e-10
-vernier = 1
-Gmin = 5.29164e-11
-Gmin = 5.68186e-12
-Gmin = 6.10085e-13
-Gmin = 0
-Gmin stepping succeeded in finding the operating point.
-
-Total elapsed time: 0.344 seconds.
+Total elapsed time: 0.191 seconds.
 
