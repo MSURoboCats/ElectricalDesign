@@ -306,7 +306,7 @@
 				)
 			)
 		)
-		(symbol "Comparator:LM397"
+		(symbol "Comparator:MCP6561-OT"
 			(pin_names
 				(offset 0.127)
 			)
@@ -314,31 +314,34 @@
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "U"
-				(at 1.27 5.08 0)
+				(at -1.27 6.35 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left)
 				)
 			)
-			(property "Value" "LM397"
-				(at 3.81 -5.08 0)
+			(property "Value" "MCP6561-OT"
+				(at -1.27 3.81 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left)
 				)
 			)
 			(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
-				(at 1.27 -15.24 0)
+				(at -2.54 -5.08 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left)
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm397.pdf"
+			(property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/MCP6561-1R-1U-2-4-1.8V-Low-Power-Push-Pull-Output-Comparator-DS20002139E.pdf"
 				(at 0 5.08 0)
 				(effects
 					(font
@@ -347,7 +350,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Single General-Purpose Voltage Comparator with Open-Collector Output, SOT-23-5"
+			(property "Description" "Single 1.8V Low-Power Push-Pull Output Comparator, SOT-23-5"
 				(at 0 0 0)
 				(effects
 					(font
@@ -356,7 +359,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "single comparator"
+			(property "ki_keywords" "cmp"
 				(at 0 0 0)
 				(effects
 					(font
@@ -374,7 +377,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "LM397_0_1"
+			(symbol "MCP6561-OT_0_1"
 				(polyline
 					(pts
 						(xy -5.08 5.08) (xy 5.08 0) (xy -5.08 -5.08) (xy -5.08 5.08)
@@ -385,26 +388,6 @@
 					)
 					(fill
 						(type background)
-					)
-				)
-			)
-			(symbol "LM397_1_1"
-				(pin input line
-					(at -7.62 -2.54 0)
-					(length 2.54)
-					(name "-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
 					)
 				)
 				(pin power_in line
@@ -418,6 +401,44 @@
 						)
 					)
 					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -2.54 7.62 270)
+					(length 3.81)
+					(name "V+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "MCP6561-OT_1_1"
+				(pin output line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -443,10 +464,10 @@
 						)
 					)
 				)
-				(pin open_collector line
-					(at 7.62 0 180)
+				(pin input line
+					(at -7.62 -2.54 0)
 					(length 2.54)
-					(name "~"
+					(name "-"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -454,24 +475,6 @@
 						)
 					)
 					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -2.54 7.62 270)
-					(length 3.81)
-					(name "V+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -932,6 +935,335 @@
 				)
 			)
 		)
+		(symbol "Regulator_Linear:MCP1799x-330xxTT"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at -3.81 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MCP1799x-330xxTT"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+				(at 0 5.715 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1799-Data-Sheet-20006248A.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "80 mA High-Voltage Automotive LDO, 3.3V output, SOT-23"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "regulator linear ldo"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SOT?23*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MCP1799x-330xxTT_0_1"
+				(rectangle
+					(start -5.08 1.905)
+					(end 5.08 -5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "MCP1799x-330xxTT_1_1"
+				(pin power_in line
+					(at 0 -7.62 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name "VO"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -7.62 0 0)
+					(length 2.54)
+					(name "VI"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Transistor_BJT:BC847"
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Q"
+				(at 5.08 1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "BC847"
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+				(at 5.08 -1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "0.1A Ic, 45V Vce, NPN Transistor, SOT-23"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "NPN Small Signal Transistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SOT?23*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "BC847_0_1"
+				(polyline
+					(pts
+						(xy 0.635 0.635) (xy 2.54 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 -0.635) (xy 2.54 -2.54) (xy 2.54 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 1.905) (xy 0.635 -1.905) (xy 0.635 -1.905)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.778) (xy 1.778 -1.27) (xy 2.286 -2.286) (xy 1.27 -1.778) (xy 1.27 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 1.27 0)
+					(radius 2.8194)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "BC847_1_1"
+				(pin input line
+					(at -5.08 0 0)
+					(length 5.715)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(name "E"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(name "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Transistor_BJT:BC849"
 			(pin_names
 				(offset 0) hide)
@@ -1382,6 +1714,12 @@
 		(uuid "240b5bf4-dfb6-4830-b552-abc871c2bd21")
 	)
 	(junction
+		(at 215.9 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "261522c1-94bb-4de7-8f5b-2e14ad75011e")
+	)
+	(junction
 		(at 62.23 30.48)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1424,12 +1762,6 @@
 		(uuid "583c5039-5d5f-4af2-ad39-57232d9c3cf5")
 	)
 	(junction
-		(at 191.77 62.23)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5d10e625-d031-40f9-84b2-92e913ff69dc")
-	)
-	(junction
 		(at 86.36 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1448,10 +1780,10 @@
 		(uuid "68f81965-6656-4b00-94d5-f171ec0730be")
 	)
 	(junction
-		(at 179.07 62.23)
+		(at 245.11 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "6a028496-3963-47cc-a743-7829d13b2041")
+		(uuid "8e86d8d6-3997-491c-9315-91ac1e0192f1")
 	)
 	(junction
 		(at 39.37 85.09)
@@ -1512,6 +1844,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e22b6c4c-db81-4485-8afc-bb68f2c0d650")
+	)
+	(junction
+		(at 231.14 146.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e46efe35-554f-4779-aff6-3391cbb4f45b")
 	)
 	(junction
 		(at 64.77 134.62)
@@ -1631,6 +1969,16 @@
 	)
 	(wire
 		(pts
+			(xy 245.11 133.35) (xy 238.76 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0fdee15d-1bd2-4b0a-bca6-d6d27dfb63d8")
+	)
+	(wire
+		(pts
 			(xy 114.3 167.64) (xy 114.3 170.18)
 		)
 		(stroke
@@ -1661,13 +2009,23 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 62.23) (xy 179.07 62.23)
+			(xy 245.11 133.35) (xy 247.65 133.35)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1a1e3d55-42a9-4782-ad6c-bfbf2618ec3e")
+		(uuid "18c536c5-b94d-4127-b289-8eb497daed11")
+	)
+	(wire
+		(pts
+			(xy 231.14 146.05) (xy 231.14 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19479fc3-b37a-46c0-b012-802568b84bbb")
 	)
 	(wire
 		(pts
@@ -1801,6 +2159,16 @@
 	)
 	(wire
 		(pts
+			(xy 212.09 132.08) (xy 212.09 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d9c0916-5452-4256-9d8c-59c18a3cad55")
+	)
+	(wire
+		(pts
 			(xy 85.09 147.32) (xy 86.36 147.32)
 		)
 		(stroke
@@ -1828,6 +2196,16 @@
 			(type default)
 		)
 		(uuid "42d780ce-8cf4-4491-b2c0-eea13225a1be")
+	)
+	(wire
+		(pts
+			(xy 215.9 146.05) (xy 231.14 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44d7b52d-1f92-4530-b05b-6cd2ba63f38d")
 	)
 	(wire
 		(pts
@@ -1961,16 +2339,6 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 72.39) (xy 179.07 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "658035d9-f33d-4a09-a5bd-d048535990eb")
-	)
-	(wire
-		(pts
 			(xy 195.58 55.88) (xy 195.58 62.23)
 		)
 		(stroke
@@ -1981,7 +2349,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 62.23) (xy 191.77 62.23)
+			(xy 189.23 62.23) (xy 195.58 62.23)
 		)
 		(stroke
 			(width 0)
@@ -2081,6 +2449,16 @@
 	)
 	(wire
 		(pts
+			(xy 245.11 135.89) (xy 245.11 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e875e4d-b839-453a-be1b-f181a5c5fc51")
+	)
+	(wire
+		(pts
 			(xy 175.26 74.93) (xy 175.26 97.79)
 		)
 		(stroke
@@ -2131,6 +2509,16 @@
 	)
 	(wire
 		(pts
+			(xy 212.09 133.35) (xy 215.9 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84e865aa-7ca5-4dde-ac96-1620e1db27fe")
+	)
+	(wire
+		(pts
 			(xy 118.11 119.38) (xy 118.11 120.65)
 		)
 		(stroke
@@ -2178,16 +2566,6 @@
 			(type default)
 		)
 		(uuid "8e41fb59-bf57-4ad0-94f7-b0d27a591229")
-	)
-	(wire
-		(pts
-			(xy 189.23 72.39) (xy 191.77 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8ec62714-1413-4db9-9726-f7ca278d1bd2")
 	)
 	(wire
 		(pts
@@ -2471,6 +2849,16 @@
 	)
 	(wire
 		(pts
+			(xy 215.9 133.35) (xy 215.9 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b35a1219-dfca-4e56-91a8-30b5a7033917")
+	)
+	(wire
+		(pts
 			(xy 39.37 52.07) (xy 101.6 52.07)
 		)
 		(stroke
@@ -2571,6 +2959,16 @@
 	)
 	(wire
 		(pts
+			(xy 223.52 133.35) (xy 215.9 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bee9e8fa-b2df-4cef-9be9-cd1ece4a9485")
+	)
+	(wire
+		(pts
 			(xy 210.82 38.1) (xy 210.82 41.91)
 		)
 		(stroke
@@ -2641,13 +3039,13 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 62.23) (xy 191.77 72.39)
+			(xy 231.14 140.97) (xy 231.14 146.05)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cb5d01b0-6978-4931-a607-edddd6ff647b")
+		(uuid "c944224b-269f-47c0-8059-f118116037ca")
 	)
 	(wire
 		(pts
@@ -2691,13 +3089,13 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 72.39) (xy 179.07 62.23)
+			(xy 215.9 143.51) (xy 215.9 146.05)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d27a3635-1f31-436c-8afc-943a91229bd2")
+		(uuid "d25ebbd6-9755-45d6-aacd-d176398dcee6")
 	)
 	(wire
 		(pts
@@ -2738,6 +3136,16 @@
 			(type default)
 		)
 		(uuid "d7f69bc9-4fcf-43e6-b475-210cab861816")
+	)
+	(wire
+		(pts
+			(xy 245.11 146.05) (xy 245.11 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d83228f4-dbdf-4f03-929e-4889643d2b66")
 	)
 	(wire
 		(pts
@@ -2791,6 +3199,16 @@
 	)
 	(wire
 		(pts
+			(xy 231.14 146.05) (xy 245.11 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e77bbe0b-8e48-458b-90c2-166906db439c")
+	)
+	(wire
+		(pts
 			(xy 39.37 30.48) (xy 62.23 30.48)
 		)
 		(stroke
@@ -2831,6 +3249,16 @@
 	)
 	(wire
 		(pts
+			(xy 247.65 132.08) (xy 247.65 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eec879fd-c844-44c9-b3e0-27e66c2b37ca")
+	)
+	(wire
+		(pts
 			(xy 160.02 46.99) (xy 160.02 49.53)
 		)
 		(stroke
@@ -2851,23 +3279,13 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 62.23) (xy 181.61 62.23)
+			(xy 170.18 62.23) (xy 181.61 62.23)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "f50e9cbd-66d2-470a-bf35-b8e6b7ba2343")
-	)
-	(wire
-		(pts
-			(xy 195.58 62.23) (xy 191.77 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f6731859-878b-440a-9ee3-6865242e80b0")
 	)
 	(wire
 		(pts
@@ -2888,6 +3306,30 @@
 			(type default)
 		)
 		(uuid "fefcc89f-45e2-4f23-827b-c7ca0fd90675")
+	)
+	(text "Change transistors to this one"
+		(exclude_from_sim no)
+		(at 173.99 143.51 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "2163723a-c4a1-4c7b-a063-b0af6b68d13c")
+	)
+	(text "Linear Dropout Regulator\n"
+		(exclude_from_sim no)
+		(at 231.14 120.65 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "88532a98-519d-46fc-9a8d-f8c68a92b5dc")
 	)
 	(global_label "Gpio"
 		(shape input)
@@ -3204,73 +3646,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 185.42 72.39 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "066700b0-5d40-4e07-9844-4dcfcbe3ccbd")
-		(property "Reference" "C5"
-			(at 185.42 67.818 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 185.42 76.454 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 189.23 71.4248 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 185.42 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 185.42 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6ec3bb76-a405-416b-83e3-8c9c63e070bb")
-		)
-		(pin "2"
-			(uuid "0d3db362-2fc7-4686-8a15-07431ebffd53")
-		)
-		(instances
-			(project "BatteryProtection"
-				(path "/6c304649-7c80-4a4c-b925-07b9210ad53d"
-					(reference "C5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "BatteryProtection:IXTA140P05T")
 		(at 208.28 62.23 0)
 		(unit 1)
@@ -3420,7 +3795,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "0b608187-7949-40a6-8c9d-b394c733da7b")
 		(property "Reference" "#PWR021"
 			(at 125.73 69.85 0)
@@ -3431,12 +3805,13 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "Vs"
-			(at 125.73 60.96 0)
+		(property "Value" "+5V"
+			(at 123.19 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -3739,6 +4114,71 @@
 			(project "BatteryProtection"
 				(path "/6c304649-7c80-4a4c-b925-07b9210ad53d"
 					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 231.14 147.32 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1e5baebd-b9db-45e1-9e8a-bc4526a7f018")
+		(property "Reference" "#PWR023"
+			(at 231.14 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 231.14 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 231.14 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 231.14 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 231.14 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6a8a6f04-04bb-41cc-92a5-4ce3bb70b67b")
+		)
+		(instances
+			(project "BatteryProtection"
+				(path "/6c304649-7c80-4a4c-b925-07b9210ad53d"
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -4432,6 +4872,160 @@
 		)
 	)
 	(symbol
+		(lib_id "Transistor_BJT:BC847")
+		(at 180.34 154.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3f881f47-1f4d-46ed-86f9-f4785810b6a9")
+		(property "Reference" "Q12"
+			(at 185.42 153.6699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BC847"
+			(at 185.42 156.2099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 185.42 156.845 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657"
+			(at 180.34 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.1A Ic, 45V Vce, NPN Transistor, SOT-23"
+			(at 180.34 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "bde4ea55-b8d5-4c7a-8dc1-79e61863af50")
+		)
+		(pin "3"
+			(uuid "91dea512-cf45-45ae-b824-f3bf6ef2832b")
+		)
+		(pin "1"
+			(uuid "ad6ac482-21eb-427c-8b40-58c0161b898e")
+		)
+		(instances
+			(project ""
+				(path "/6c304649-7c80-4a4c-b925-07b9210ad53d"
+					(reference "Q12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Comparator:MCP6561-OT")
+		(at 128.27 82.55 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "474660a3-fd64-4be2-80f6-917d2e1731f2")
+		(property "Reference" "U1"
+			(at 140.97 76.2314 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MCP6561-OT"
+			(at 140.97 78.7714 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+			(at 125.73 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/MCP6561-1R-1U-2-4-1.8V-Low-Power-Push-Pull-Output-Comparator-DS20002139E.pdf"
+			(at 128.27 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Single 1.8V Low-Power Push-Pull Output Comparator, SOT-23-5"
+			(at 128.27 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "2fb743f0-6903-4bef-a763-b0d600039a9b")
+		)
+		(pin "4"
+			(uuid "2a20876c-e8e5-464b-bdd9-b2620a610fe6")
+		)
+		(pin "2"
+			(uuid "6b212555-f13f-47f4-82ae-3d0254e99b45")
+		)
+		(pin "1"
+			(uuid "d816ac04-6bda-4c9c-afe6-e5c0feaf7101")
+		)
+		(pin "5"
+			(uuid "ed3b6a7e-0def-4bce-9184-ae5f318a24ce")
+		)
+		(instances
+			(project "BatteryProtection"
+				(path "/6c304649-7c80-4a4c-b925-07b9210ad53d"
+					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Transistor_BJT:BC849")
 		(at 115.57 127 0)
 		(unit 1)
@@ -4852,6 +5446,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 245.11 139.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6ec3007a-9feb-4ffd-b39a-19017bd2f9fe")
+		(property "Reference" "C7"
+			(at 249.682 139.7 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1u"
+			(at 241.046 139.7 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 246.0752 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 245.11 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 245.11 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "955cf681-23a7-4daa-8507-060fde6f8bf7")
+		)
+		(pin "2"
+			(uuid "c0631a08-9e4f-4183-8950-a996abcbec4d")
+		)
+		(instances
+			(project "BatteryProtection"
+				(path "/6c304649-7c80-4a4c-b925-07b9210ad53d"
+					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 96.52 43.18 0)
 		(unit 1)
@@ -4911,82 +5572,6 @@
 			(project "BatteryProtection"
 				(path "/6c304649-7c80-4a4c-b925-07b9210ad53d"
 					(reference "#PWR05")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Comparator:LM397")
-		(at 128.27 82.55 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "77964ea6-3acd-426f-b14d-c37fd276b085")
-		(property "Reference" "U2"
-			(at 133.604 85.598 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PLACEHOLDER"
-			(at 133.604 88.138 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
-			(at 129.54 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm397.pdf"
-			(at 128.27 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Single General-Purpose Voltage Comparator with Open-Collector Output, SOT-23-5"
-			(at 128.27 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "a5e2eee6-139e-4d97-b53c-b0a7c0263a33")
-		)
-		(pin "4"
-			(uuid "034252ee-3c32-4d55-a5e6-96be33c37a79")
-		)
-		(pin "5"
-			(uuid "8698c453-72eb-4633-b0e7-27f79f50813c")
-		)
-		(pin "2"
-			(uuid "e4219e30-7a6c-432c-8952-f1ee265e9f13")
-		)
-		(pin "1"
-			(uuid "af95ebe8-3b3c-48f7-b0a1-62b372162880")
-		)
-		(instances
-			(project "BatteryProtection"
-				(path "/6c304649-7c80-4a4c-b925-07b9210ad53d"
-					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -5536,6 +6121,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3V")
+		(at 247.65 132.08 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9a1c776b-d281-4f36-831a-e8771498a388")
+		(property "Reference" "#PWR025"
+			(at 247.65 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 247.65 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 247.65 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 247.65 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 247.65 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "373cbb82-b911-4ba1-9830-1c58c4694168")
+		)
+		(instances
+			(project "BatteryProtection"
+				(path "/6c304649-7c80-4a4c-b925-07b9210ad53d"
+					(reference "#PWR025")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 39.37 41.91 0)
 		(unit 1)
@@ -5948,6 +6598,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 215.9 139.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a9cac376-06ae-4ade-99f0-2ed630ea14f1")
+		(property "Reference" "C6"
+			(at 220.472 139.7 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1u"
+			(at 211.836 139.7 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 216.8652 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 215.9 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 215.9 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a7aaa559-d12f-4f70-b337-92fed1c9507f")
+		)
+		(pin "2"
+			(uuid "a87d499f-7d77-4bdb-840a-085fc659cf14")
+		)
+		(instances
+			(project "BatteryProtection"
+				(path "/6c304649-7c80-4a4c-b925-07b9210ad53d"
+					(reference "C6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 210.82 73.66 180)
 		(unit 1)
@@ -6079,6 +6796,77 @@
 			(project "BatteryProtection"
 				(path "/6c304649-7c80-4a4c-b925-07b9210ad53d"
 					(reference "R7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Regulator_Linear:MCP1799x-330xxTT")
+		(at 231.14 133.35 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b68bfce5-59da-441a-b973-1a2a08eb39f0")
+		(property "Reference" "U4"
+			(at 231.14 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MCP1799x-330xxTT"
+			(at 231.14 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 231.14 127.635 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1799-Data-Sheet-20006248A.pdf"
+			(at 231.14 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "80 mA High-Voltage Automotive LDO, 3.3V output, SOT-23"
+			(at 231.14 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "f9a5b043-fd13-43a8-bc74-f1883f6cc82b")
+		)
+		(pin "2"
+			(uuid "72390948-2b84-4ad4-ad64-bb85bbea5590")
+		)
+		(pin "1"
+			(uuid "cefd8e9d-ec6e-452c-8d90-34e190a0b7e0")
+		)
+		(instances
+			(project ""
+				(path "/6c304649-7c80-4a4c-b925-07b9210ad53d"
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -6294,6 +7082,84 @@
 		)
 	)
 	(symbol
+		(lib_id "Comparator:MCP6561-OT")
+		(at 109.22 54.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bc1a2f49-42fe-412b-b11c-5d51f12c2c90")
+		(property "Reference" "U3"
+			(at 121.92 48.2914 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MCP6561-OT"
+			(at 121.92 50.8314 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+			(at 106.68 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/MCP6561-1R-1U-2-4-1.8V-Low-Power-Push-Pull-Output-Comparator-DS20002139E.pdf"
+			(at 109.22 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Single 1.8V Low-Power Push-Pull Output Comparator, SOT-23-5"
+			(at 109.22 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "a27a5f11-a592-43ff-875e-3e436b7e66c9")
+		)
+		(pin "4"
+			(uuid "3be27454-55c2-4bc8-9aea-82c4dc4c9429")
+		)
+		(pin "2"
+			(uuid "19fd2e3b-57ca-4f89-8d95-2e7ef6838189")
+		)
+		(pin "1"
+			(uuid "64239ad1-5c89-4058-ba5e-53212b1e9da9")
+		)
+		(pin "5"
+			(uuid "37f75dcf-c23f-4ccd-803e-b8b4c4a62fa8")
+		)
+		(instances
+			(project ""
+				(path "/6c304649-7c80-4a4c-b925-07b9210ad53d"
+					(reference "U3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
 		(at 106.68 36.83 0)
 		(unit 1)
@@ -6301,7 +7167,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c1047e44-1cc8-4986-be6b-07bf9b59f5ba")
 		(property "Reference" "#PWR020"
 			(at 106.68 40.64 0)
@@ -6312,12 +7177,13 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "Vs"
-			(at 106.68 31.75 0)
+		(property "Value" "+5V"
+			(at 104.14 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -6981,82 +7847,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Comparator:LM397")
-		(at 109.22 54.61 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "e33f74b0-27f7-4ae1-b11a-aac2dc646ecc")
-		(property "Reference" "U1"
-			(at 114.554 58.166 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PLACEHOLDER"
-			(at 114.554 60.706 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
-			(at 110.49 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm397.pdf"
-			(at 109.22 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Single General-Purpose Voltage Comparator with Open-Collector Output, SOT-23-5"
-			(at 109.22 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "6c059f2e-4ccc-4215-806a-3aa33ff5057c")
-		)
-		(pin "4"
-			(uuid "78f157ec-104c-4b69-8d14-fa705f91e20f")
-		)
-		(pin "5"
-			(uuid "e755cae8-72e0-44ad-af1f-904e2a0de6dd")
-		)
-		(pin "2"
-			(uuid "4a8d58f2-aee9-40f6-bed4-fa5eec48ec94")
-		)
-		(pin "1"
-			(uuid "725d096b-92c0-46b9-b870-7f68438e223b")
-		)
-		(instances
-			(project ""
-				(path "/6c304649-7c80-4a4c-b925-07b9210ad53d"
-					(reference "U1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Transistor_BJT:BC849")
 		(at 157.48 82.55 0)
 		(unit 1)
@@ -7127,6 +7917,71 @@
 			(project "BatteryProtection"
 				(path "/6c304649-7c80-4a4c-b925-07b9210ad53d"
 					(reference "Q3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 212.09 132.08 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e4dac295-9bfe-4917-b2b8-30ba3b4ef15e")
+		(property "Reference" "#PWR024"
+			(at 212.09 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "Vs"
+			(at 212.09 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 212.09 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 212.09 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 212.09 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c84b5981-e813-43df-bd2a-2c86430934bb")
+		)
+		(instances
+			(project "BatteryProtection"
+				(path "/6c304649-7c80-4a4c-b925-07b9210ad53d"
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
