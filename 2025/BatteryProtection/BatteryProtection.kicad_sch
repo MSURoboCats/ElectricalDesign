@@ -3869,18 +3869,6 @@
 		)
 		(uuid "fefcc89f-45e2-4f23-827b-c7ca0fd90675")
 	)
-	(text "Change transistors to this one"
-		(exclude_from_sim no)
-		(at 182.88 144.78 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-				(thickness 0.508)
-				(bold yes)
-			)
-		)
-		(uuid "2163723a-c4a1-4c7b-a063-b0af6b68d13c")
-	)
 	(text "Linear Dropout Regulator\n"
 		(exclude_from_sim no)
 		(at 251.46 123.19 0)
