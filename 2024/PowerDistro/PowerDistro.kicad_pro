@@ -181,6 +181,7 @@
         0.0,
         0.2,
         0.254,
+        0.5,
         8.0
       ],
       "tuning_pattern_settings": {
@@ -684,20 +685,20 @@
       "Root"
     ],
     [
-      "b7e818b9-4aaa-45d2-9f37-db85d93298c1",
-      "MotorPower"
-    ],
-    [
       "487f4da6-9a33-4c8e-8a5a-04392d82f5a1",
-      "OrinPinout"
+      "Jetson Orin"
     ],
     [
       "5a05102a-8d82-49b8-9679-8a2aadf03607",
-      "LEDBoardPinout"
+      "PWM Driver"
     ],
     [
       "4bdb1d82-0fdb-4af5-950a-28819a875ecc",
-      "Outputs"
+      "Motor Drivers"
+    ],
+    [
+      "71bc04c6-11c2-4d39-a0ca-a4be2547cbb1",
+      "Solonoid Switches"
     ]
   ],
   "text_variables": {}

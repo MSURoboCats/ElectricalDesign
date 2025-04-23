@@ -6,7 +6,7 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 146.05 105.41)
+		(at 184.15 73.66)
 		(size 63.5 57.15)
 		(fields_autoplaced yes)
 		(stroke
@@ -17,8 +17,8 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "487f4da6-9a33-4c8e-8a5a-04392d82f5a1")
-		(property "Sheetname" "OrinPinout"
-			(at 146.05 104.6984 0)
+		(property "Sheetname" "Jetson Orin"
+			(at 184.15 72.9484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27,7 +27,7 @@
 			)
 		)
 		(property "Sheetfile" "OrinPinout.kicad_sch"
-			(at 146.05 163.1446 0)
+			(at 184.15 131.3946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44,8 +44,8 @@
 		)
 	)
 	(sheet
-		(at 21.59 105.41)
-		(size 53.34 57.15)
+		(at 45.72 73.66)
+		(size 67.31 57.15)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -55,8 +55,8 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "4bdb1d82-0fdb-4af5-950a-28819a875ecc")
-		(property "Sheetname" "Outputs"
-			(at 21.59 104.6984 0)
+		(property "Sheetname" "Motor Drivers"
+			(at 45.72 72.9484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -65,7 +65,7 @@
 			)
 		)
 		(property "Sheetfile" "untitled.kicad_sch"
-			(at 21.59 163.1446 0)
+			(at 45.72 131.3946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -82,7 +82,7 @@
 		)
 	)
 	(sheet
-		(at 81.28 105.41)
+		(at 119.38 73.66)
 		(size 60.96 57.15)
 		(fields_autoplaced yes)
 		(stroke
@@ -93,8 +93,8 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "5a05102a-8d82-49b8-9679-8a2aadf03607")
-		(property "Sheetname" "LEDBoardPinout"
-			(at 81.28 104.6984 0)
+		(property "Sheetname" "PWM Driver"
+			(at 119.38 72.9484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -103,7 +103,7 @@
 			)
 		)
 		(property "Sheetfile" "LEDBoardPinout.kicad_sch"
-			(at 81.28 163.1446 0)
+			(at 119.38 131.3946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -120,8 +120,8 @@
 		)
 	)
 	(sheet
-		(at 213.36 105.41)
-		(size 68.58 57.15)
+		(at 203.2 33.02)
+		(size 57.15 33.02)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -130,9 +130,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "b7e818b9-4aaa-45d2-9f37-db85d93298c1")
-		(property "Sheetname" "MotorPower"
-			(at 213.36 104.6984 0)
+		(uuid "71bc04c6-11c2-4d39-a0ca-a4be2547cbb1")
+		(property "Sheetname" "Solonoid Switches"
+			(at 203.2 32.3084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -140,8 +140,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "MotorPower.kicad_sch"
-			(at 213.36 163.1446 0)
+		(property "Sheetfile" "SolonoidSwitches.kicad_sch"
+			(at 203.2 66.6246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -152,7 +152,7 @@
 		(instances
 			(project "PowerDistro"
 				(path "/605eff46-b281-4cd5-84ac-aa97178bb7be"
-					(page "2")
+					(page "5")
 				)
 			)
 		)
