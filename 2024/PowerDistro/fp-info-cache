@@ -1,4 +1,4 @@
-23857047905480921
+23858793377713441
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85574,6 +85574,13 @@ PowerDistroFootprints
 0
 3
 3
+PowerDistroFootprints
+691321100002
+
+
+0
+0
+0
 PowerDistroFootprints
 AMPHENOL_10159560-A00221RLF
 

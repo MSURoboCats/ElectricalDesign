@@ -3160,7 +3160,7 @@
 			)
 		)
 	)
-	(global_label "I2C2_CLK"
+	(global_label "I2C_CLK"
 		(shape input)
 		(at 127 161.29 0)
 		(fields_autoplaced yes)
@@ -3172,7 +3172,7 @@
 		)
 		(uuid "7db1efe0-2114-421e-b2eb-00befcce043b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 138.8147 161.29 0)
+			(at 137.6052 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3358,7 +3358,7 @@
 			)
 		)
 	)
-	(global_label "I2C2_DAT"
+	(global_label "I2C_DAT"
 		(shape input)
 		(at 127 158.75 0)
 		(fields_autoplaced yes)
@@ -3370,7 +3370,7 @@
 		)
 		(uuid "cab7a4a5-e6dd-4a3c-bda9-9c0cad7318b6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 138.5728 158.75 0)
+			(at 137.3633 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4122,7 +4122,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 152.0952 85.09 0)
 			(effects
 				(font
