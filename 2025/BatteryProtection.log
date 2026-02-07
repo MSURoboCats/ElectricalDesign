@@ -1,6 +1,6 @@
 LTspice 24.0.12 for Windows
 Circuit: * C:\Users\nate4\GitHub\ElectricalDesign\2025\BatteryProtection.asc
-Start Time: Mon Jun 23 17:45:41 2025
+Start Time: Sat Feb  7 13:19:54 2026
 solver = Normal
 Maximum thread count: 8
 tnom = 27
@@ -26,5 +26,5 @@ Gmin = 2.70769e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 1.717 seconds.
+Total elapsed time: 1.604 seconds.
 
