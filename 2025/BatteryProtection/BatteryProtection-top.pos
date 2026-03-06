@@ -1,0 +1,58 @@
+### Footprint positions - created on 2026-02-16T13:47:03-0700 ###
+### Printed by KiCad version 9.0.4
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                Package                                           PosX       PosY       Rot  Side
+C1        1uF                C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   194.9237  -111.3137   90.0000  top
+C2        1uF                C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   213.9237  -108.7512  -90.0000  top
+C3        1u                 C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   201.9237  -111.3888  -90.0000  top
+C4        1u                 C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   205.4237  -114.8137  180.0000  top
+D1        LED                LED_0805_2012Metric                           190.9237   -92.7512  -90.0000  top
+J1        Conn_01x02_Socket  JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical         163.9237  -104.7512  180.0000  top
+J2        Conn_01x02_Pin     XT90PW-M                                      141.4237   -75.7512  180.0000  top
+J3        Conn_01x02_Pin     XT90PW-F                                      257.9237   -75.7512  180.0000  top
+J4        Conn_01x03_Pin     JST_B3B-XH-A                                  222.5000  -105.0000    0.0000  top
+Q1        IXTA140P05T        TO-263-2                                      200.9638   -78.1012   90.0000  top
+Q2        BC847              SOT-23                                        204.9737  -106.2512    0.0000  top
+Q3        BC847              SOT-23                                        200.4237  -106.2512  180.0000  top
+Q4        BC847              SOT-23                                        195.9237  -106.2512    0.0000  top
+Q5        BC847              SOT-23                                        177.2488  -102.8825   90.0000  top
+Q6        BC847              SOT-23                                        184.1112  -107.3950   90.0000  top
+Q7        BC847              SOT-23                                        183.4988  -114.2825    0.0000  top
+Q8        BC847              SOT-23                                        189.3362  -105.5075  -90.0000  top
+Q9        BC847              SOT-23                                        179.5613  -109.8950  -90.0000  top
+Q10       BC847              SOT-23                                        169.6863  -109.9450  180.0000  top
+Q11       BC847              SOT-23                                        174.6863  -109.9450  -90.0000  top
+Q12       BC847              SOT-23                                        201.9237   -96.6887   90.0000  top
+Q13       BC847              SOT-23                                        188.4375  -112.9500    0.0000  top
+R1        50k                R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   195.9237   -96.6637  -90.0000  top
+R2        10k                R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   195.9237  -101.6637  -90.0000  top
+R3        116k               R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   205.4237   -96.3387  -90.0000  top
+R4        15k                R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   209.4237  -113.7512   90.0000  top
+R5        1k                 R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   209.8362  -104.7512    0.0000  top
+R6        1k                 R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   192.9737  -111.3137   90.0000  top
+R7        1k                 R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   188.5112   -98.9513  -90.0000  top
+R8        1k                 R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   200.9237  -101.3387  -90.0000  top
+R9        100k               R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   200.9737   -92.2137   90.0000  top
+R10       50k                R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   257.9237   -91.7512  180.0000  top
+R11       100k               R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   181.4988  -103.4450   90.0000  top
+R12       100k               R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   191.4237   -99.7512    0.0000  top
+R13       100k               R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   191.4237   -97.2512    0.0000  top
+R14       1k                 R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   189.4237  -108.9450    0.0000  top
+R15       1k                 R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   173.7488  -103.0325  -90.0000  top
+R16       1k                 R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   184.0613  -102.8325  -90.0000  top
+R17       1k                 R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   183.8362  -110.9450    0.0000  top
+R18       1k                 R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   174.5362  -113.3950  180.0000  top
+R19       1k                 R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   177.0362  -106.3950  180.0000  top
+R20       1k                 R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   173.0613  -106.3325    0.0000  top
+R21       1k                 R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   179.5613  -114.4450   90.0000  top
+R22       1k                 R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   168.4988  -104.9450  -90.0000  top
+R23       10k                R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   200.9237  -114.7512    0.0000  top
+R24       10k                R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   205.4237  -101.6637  -90.0000  top
+R25       100k               R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   198.4237   -96.7512   90.0000  top
+R26       2.2k               R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   194.0112   -90.7512  180.0000  top
+R27       1M                 R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   214.5875  -114.0000  180.0000  top
+U1        MCP6561-OT         SOT-23-5                                      210.8738  -108.6137  -90.0000  top
+U2        MCP6561-OT         SOT-23-5                                      197.9737  -111.1762   90.0000  top
+U3        MCP1799x-330xxTT   SOT-23                                        205.4237  -111.2512   90.0000  top
+## End
