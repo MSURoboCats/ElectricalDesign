@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20250114)
+	(version 20260306)
 	(generator "eeschema")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(uuid "605eff46-b281-4cd5-84ac-aa97178bb7be")
 	(paper "A4")
 	(lib_symbols)
@@ -18,11 +18,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "487f4da6-9a33-4c8e-8a5a-04392d82f5a1")
 		(property "Sheetname" "Jetson Orin"
 			(at 184.15 72.9484 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32,6 +34,8 @@
 		)
 		(property "Sheetfile" "OrinPinout.kicad_sch"
 			(at 184.15 131.3946 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -60,11 +64,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "4bdb1d82-0fdb-4af5-950a-28819a875ecc")
 		(property "Sheetname" "Motor Drivers"
 			(at 45.72 72.9484 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -74,6 +80,8 @@
 		)
 		(property "Sheetfile" "untitled.kicad_sch"
 			(at 45.72 131.3946 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -102,11 +110,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "5a05102a-8d82-49b8-9679-8a2aadf03607")
 		(property "Sheetname" "PWM Driver"
 			(at 119.38 72.9484 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -116,6 +126,8 @@
 		)
 		(property "Sheetfile" "LEDBoardPinout.kicad_sch"
 			(at 119.38 131.3946 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -144,11 +156,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "71bc04c6-11c2-4d39-a0ca-a4be2547cbb1")
 		(property "Sheetname" "Solonoid Switches"
 			(at 203.2 32.3084 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -158,6 +172,8 @@
 		)
 		(property "Sheetfile" "SolonoidSwitches.kicad_sch"
 			(at 203.2 66.6246 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
